@@ -1,4 +1,5 @@
 # Weather Dashboard
+## Introduction
 -   One of the most famous dashboard functionalities over the entire webspace is about the Weather App.
 -   Here, we have created the same Weather App Dashboard which includes the weather information and details about the location of the user (The Weather App automatically detects the current location of the user, given that the permission is provided by the user)! These details include:
 	-   Location Weather Description
