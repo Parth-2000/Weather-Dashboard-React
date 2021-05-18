@@ -1,4 +1,9 @@
 # Weather-Dashboard-React
+## Introduction
+-  This branch contains the code from Google Maps API.
+-   We have used this API to create two map representations, namely:
+	-   Heat Map of Earthquakes
+	-   Markers Indicating the Earthquake-hit regions.
 
 ### NOTE: Before Running main branch code Do below steps.
 
