@@ -48,8 +48,9 @@ and more ...
 7. Start your Live Server ( If you don't have live server. Search "LIVE SERVER" in vscode extension install it and run it.)
 8. Now Go to main branch folder open terminal with folder location.
 9. Write "npm install" in terminal. (It will download the required pakages.)
-10. Write "npm start" in terminal. (And that's All 😀, Your website will be started in the Browser.
+10. Write "npm start" in terminal. 
 
+That's it 😀, the website will be up and running in the Browser.
 
 # Made By:
 
