@@ -37,7 +37,7 @@ and more ...
 ![output](https://user-images.githubusercontent.com/67038867/118466382-6e29c600-b720-11eb-9a70-e2c735ea7a14.gif)
 
 
-# Steps to Run 😉
+# Steps to Run 🙂
 
 1. Clone the main branch
 2. Open that Folder with VSCode
